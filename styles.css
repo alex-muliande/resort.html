@@ -1,0 +1,64 @@
+body{
+    background: linear-gradient(to left ,#1D4350, #7c2525);
+}
+h1{
+    color: rgb(46, 195, 200);
+    font-size: 220%;
+    text-align:center;
+}
+#bar{
+    background-color: aqua;
+    height: 80px;
+    text-align: center;
+}
+nav{
+    margin-top: 20px;
+}
+li{
+    display:inline;
+    border:7px;
+    padding-right: 20px;
+}
+#accomodation{
+    height: 500px;
+    width: auto;
+    font-size: 200%;
+}
+h2{
+    text-size-adjust: :0.58;
+}
+a:hover{
+    color:hotpink;
+}
+p{
+    font-size: 100%;
+}
+p{
+    font-size: 100%;    
+}
+nav{
+ font-style: oblique;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+figcaption{
+    font-size: 35px;
+}
+span{
+    color: aqua;
+    font-size: 50px;
+}
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  } 
+  footer{
+      text-align: center;
+      font-size: 25px;  
+  }
